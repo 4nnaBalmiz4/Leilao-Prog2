@@ -59,12 +59,4 @@ public class Leilao implements ILeilao {
         System.out.printf("O cliente: "+c+" deu o lance"+maiorLance);
     }
 
-    void adicionarCliente(Cliente cliente1) {
-        throw new UnsupportedOperationException("Not supported yet.");
-    }
-
-    void notificarClientes() {
-        throw new UnsupportedOperationException("Not supported yet.");
-    }
-
 }
